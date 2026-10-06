@@ -24,4 +24,9 @@ dependencyResolutionManagement {
 
 rootProject.name = "CloudID"
 include(":app")
+include(":domain")
+include(":data")
+include(":MovieProject")
+include(":movie-domain")
+include(":movie-data")
  
