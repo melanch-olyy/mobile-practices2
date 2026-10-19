@@ -5,7 +5,7 @@ plugins {
 android {
     namespace = "ru.mirea.samsonova.Lesson9.data"
     compileSdk {
-        version = release(37)
+        version = release(36)
     }
     defaultConfig {
         minSdk = 33
